@@ -64,7 +64,7 @@ ORDER BY FIELD(status,    /*  first mention the column in list */
                       
 /*  NULL means no value i.e.dosen't exist  */
 /*  if we order by ascending order the row which contains NULL value will apper first before any value   */
-
+/* even if it is 0 or negative */
 
 
 
