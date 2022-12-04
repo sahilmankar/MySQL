@@ -1,4 +1,4 @@
--- Active: 1670145836455@@127.0.0.1@3306@classicmodels
+
 /* This is a file of basic MySQL SELECT ,ORDER BY,DISTINCT,LIMIT clause */
 
 
