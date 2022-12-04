@@ -1,2 +1,2 @@
 # MySQL
-MySQL basics
+This repository contains MySQL basic clauses
