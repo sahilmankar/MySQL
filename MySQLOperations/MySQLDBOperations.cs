@@ -3,7 +3,7 @@ using MySql.Data.MySqlClient;
 namespace MySQLOperations;
 
 public class MySQLDBOperations{
-public static string connStr= "server=localhost; user=root; password=toxic ; SslMode=none; database=classicmodels";
+public static string connStr= "server=localhost; user=root; password=**** ; SslMode=none; database=classicmodels";
 
 
 public static bool CreateTable(){
